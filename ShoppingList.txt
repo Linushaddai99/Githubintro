@@ -6,3 +6,5 @@ carrots
 grapes
 Banannas
 Cereals
+Cucumber
+Star Apple
